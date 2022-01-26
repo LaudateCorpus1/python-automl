@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-automl/#history
 
+## [2.7.0](https://github.com/googleapis/python-automl/compare/v2.6.0...v2.7.0) (2022-01-26)
+
+
+### Features
+
+* add api key support ([#327](https://github.com/googleapis/python-automl/issues/327)) ([74c9531](https://github.com/googleapis/python-automl/commit/74c95311107acc41c60585b98f1c68e750298e85))
+
 ## [2.6.0](https://github.com/googleapis/python-automl/compare/v2.5.2...v2.6.0) (2022-01-15)
 
 
